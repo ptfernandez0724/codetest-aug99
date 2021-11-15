@@ -1,0 +1,17 @@
+
+
+.container {
+    margin: auto;
+    width: 60%;
+    height: 800px;
+    border: hidden;
+    overflow-x: hidden;
+    border-radius: 8px;
+}
+
+.inner {
+    border: 1px solid blueviolet;
+    overflow: scroll;
+    margin: 10px;
+    border-radius: 8px;
+}
